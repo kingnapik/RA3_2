@@ -24,5 +24,15 @@ Um artigo contendo o código-fonte da linguagem utilizada neste projeto (uma exp
 
 Exemplo:
 ```scss
-teste
+( 3.14 2.5 + )
+( 40 MEM )
+( ( MEM 40 == ) ( MEM 10 + ) ( MEM 10 - ) IF )
 ```
+## Saída
+* analise_gramatical.md
+* gramatica_atributos.md
+* erros_semanticos.md
+* julgamento_tipos.md
+* arvore_atribuida_linha_N.md
+* arvore_atribuida_linha_N.json
+* arvores_atribuidas.json
